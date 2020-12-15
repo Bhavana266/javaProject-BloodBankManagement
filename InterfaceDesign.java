@@ -11,7 +11,7 @@ public class InterfaceDesign extends JFrame implements ActionListener{
 	Color c1 = new Color(230, 51, 51);
 	Color c2 = new Color(77, 0, 0);
 	Color c3 = new Color(255, 255, 255);
-	ImageIcon img =new ImageIcon("E:\\image.jpg");
+	ImageIcon img =new ImageIcon("image.jpg");
 	InterfaceDesign() throws Exception{
 		setTitle("BBMS");
 		getContentPane().setBackground(c1);
